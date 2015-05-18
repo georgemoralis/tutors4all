@@ -13,3 +13,4 @@ hs_err_pid*
 java/itext/readpdf/test.pdf
 java/itext/encryptpdf/encrypted.pdf
 java/itext/encryptpdf/test.pdf
+java/core/regex/regexpart1/target/*
